@@ -15,6 +15,7 @@
   "license": "ISC",
   "devDependencies": {
     "concurrently": "^6.4.0",
+    "cross-env": "^7.0.3",
     "nodemon": "^2.0.15"
   },
   "dependencies": {
@@ -22,8 +23,10 @@
     "cors": "^2.8.5",
     "dotenv": "^10.0.0",
     "express": "^4.17.3",
+    "firebase": "^9.17.2",
     "firebase-admin": "^10.0.2",
     "mongoose": "^6.2.10",
-    "stripe": "^8.207.0"
+    "stripe": "^8.207.0",
+    "ts-node": "^10.9.1"
   }
 }
