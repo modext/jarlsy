@@ -1,0 +1,157 @@
+[
+  {
+    "id": "73bdabed-c9f5-4776-a978-9d3149077186",
+    "name": "Jacket & Coats",
+    "style": [
+      "Leather",
+      "OverCoat",
+      "PullOver",
+      "Biker",
+      "Bomber Jacket",
+      "Parkas",
+      "Denim Jacket",
+      "Track",
+      "Varsity",
+      "Wind Breaker",
+      "Other"
+    ],
+    "pattern": [
+      "plain",
+      "logo",
+      "stripe",
+      "check",
+      "print",
+      "graphic",
+      "embroidery",
+      "colour block",
+      "other"
+    ]
+  },
+  {
+    "id": "42789cee-7a47-4491-ba35-34343c33fec4",
+    "name": "Hoodies & SweatShirts",
+    "style": [
+      "Hooded",
+      "cuffed",
+      "zip through",
+      "tracksuit",
+      "oversized",
+      "other",
+      "joggers",
+      "fleece lined"
+    ],
+    "pattern": [
+      "plain",
+      "logo",
+      "stripe",
+      "floral",
+      "check",
+      "print",
+      "graphic",
+      "embroidery",
+      "colour block",
+      "other"
+    ]
+  },
+  {
+    "id": "0bb69848-7473-494d-81ea-36df7e86d5c0",
+    "name": "Tshirts & Polos",
+    "style": [
+      "LongLine",
+      "Muscle",
+      "Oversized",
+      "slim fit",
+      "Regular",
+      "Relaxed",
+      "slim",
+      "Other"
+    ],
+    "pattern": [
+      "logo",
+      "Plain",
+      "graphic",
+      "print",
+      "check",
+      "coulour block",
+      "other"
+    ]
+  },
+  {
+    "id": "19bbf9bc-6213-43bc-beea-3a31f5ec3b67",
+    "name": "Joggers",
+    "style": ["cargo", "Cigarette", "Cropped", "slim", "relaxed", "other"]
+  },
+  {
+    "id": "0bbdd574-1f43-4a05-a081-01940408c6b3",
+    "name": "Shirts",
+    "style": ["Denim", "Oxford", "Regular", "Relaxed", "Slim", "Other"],
+    "pattern": [
+      "plain",
+      "check",
+      "print",
+      "stripe",
+      "logo",
+      "floral",
+      "tartan",
+      "other"
+    ]
+  },
+  {
+    "id": "b558fc92-12fb-4cca-96f3-4904b5f45d0e",
+    "name": "Jeans",
+    "style": ["Slim", "Tapered", "Regular", "Other"]
+  },
+  {
+    "id": "b9884f22-3899-4693-9c4f-a826d8303ad8",
+    "name": "LoungeWear",
+    "style": ["Hooded", "cuffed", "zip through", "jersey", "hoodies"]
+  },
+  {
+    "id": "3f0af8c2-ece8-4dd1-aea3-8146054b2329",
+    "name": "Pants & Chinos",
+    "style": [
+      "cargo",
+      "Cigarette",
+      "chino",
+      "Cropped",
+      "slim",
+      "relaxed",
+      "other"
+    ],
+    "pattern": ["Plain", "check", "stripe", "logo", "other"]
+  },
+  {
+    "id": "da8a1183-5e78-4018-82f4-79e494a2e39b",
+    "name": "Socks",
+    "style": ["ankle sock", "trainer sock", "slipper sock"],
+    "pattern": ["plain", "logo", "print", "stripe", "embroidery", "other"]
+  },
+  {
+    "id": "62bb10c2-e82c-46e0-8112-045ce2470112",
+    "name": "Sets & OutFits",
+    "style": [
+      "Joggers sets",
+      "t-shirt set",
+      "sweater set",
+      "tracksuit",
+      "hooded",
+      "Co Ord"
+    ],
+    "pattern": ["plain", "logo", "print", "stripe", "graphic", "other"]
+  },
+  {
+    "id": "05c30849-b66f-4a3f-b446-61e1a1de6be4",
+    "name": "Jumpers & KnitWear",
+    "style": ["Oversized", "regular", "relaxed", "other"],
+    "pattern": [
+      "plain",
+      "logo",
+      "print",
+      "stripe",
+      "graphic",
+      "cable",
+      "colour block",
+      "other"
+    ]
+  }
+]
