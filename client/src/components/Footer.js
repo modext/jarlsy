@@ -6,7 +6,7 @@ function Footer() {
       className="mt-14 py-2 w-full text-white bg-[#dd9ac2]"
       style={{
         textAlign: "center",
-        fontSize: "1rem",
+        fontSize: ".5rem",
         fontWeight: "bold"
       }}
     >

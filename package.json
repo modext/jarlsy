@@ -11,7 +11,7 @@
     "dev": "concurrently \"npm run server\" \"npm run client\""
   },
   "keywords": [],
-  "author": "",
+  "author": "Modext",
   "license": "ISC",
   "devDependencies": {
     "concurrently": "^6.4.0",

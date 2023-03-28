@@ -48,7 +48,7 @@ function Nav({ items, openSide, selectTab }) {
           }}
           className=" flex space-x-5 lg:space-x-10 font-logo m-auto cursor-pointer top-1/2 left-2 lg:ml-16   transform -translate-x-1/2  text-4xl font-bold text-[#000000] "
         >
-          Jarlsy.
+          Salesfash.
         </div>
         <ul className="flex  space-x-5 lg:space-x-10   font-medium text-xs lg:text-base cursor-pointer">
           {width > 700 ? (
