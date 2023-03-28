@@ -8,6 +8,7 @@ dotenv.config();
 // firebase connect from backend to frontend
 import { serviceAccount } from './permissions.js';
 const app = express();
+app.use(express.static('build'))
 app.use(
   cors({
     origin: '*',
@@ -168,7 +169,7 @@ app.post(
     }
   }
 );
-
-app.listen(process.env.PORT || 5000, () => {
-  console.log('server');
+const PORT = process.env.PORT || 5000
+app.listen(PORT, () => {
+  console.log(`server running on ${PORT}`);
 });
